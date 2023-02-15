@@ -1,25 +1,49 @@
 body{
     background-color: hsl(212, 45%, 89%);
+    margin: 0;
+    font-family: 'Outfit', sans-serif;
+}
+.app{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .card{
-    height: 50vh;
-    width: 20vw;
+    width: 325px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
 }
 .card-image{
     object-fit: contain;
     padding: 1rem;
+    border-radius: 10px;
 }
 img{
     height: 100%;
     width: 100%;
+    border-radius: 10px;
 }
-
+.card-text{
+    padding: 0 0.5rem;
+    margin: 0 1rem;
+    text-align: center;
+}
 .card-title{
     font-weight: 700;
+    font-size: 20px;
+    color: hsl(218, 44%, 22%);
+    margin: 5px 0 10px 0;
 }
 .card-info{
     font-size: 15px;
     font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    margin-bottom: 40px;
+}
+.app-footer{
+    position: absolute;
+    bottom: 0;
+    margin: 0 10px 10px 10px;
 }
