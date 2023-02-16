@@ -14,7 +14,7 @@
 This the QR code component challenge on Frontend Mentor, where I tried to get my project to look as close to the desktop-design.jpg found in the design folder.  This project was built using HTML5 and CSS.    
 
 ### Screenshot
-![](./images/Screenshot%202023-02-15%20at%2017-20-32%20Frontend%20Mentor%20QR%20code%20component.png)
+![](./images/Screenshot%202023-02-15%20at%2017-54-16%20Frontend%20Mentor%20QR%20code%20component.png)
 
 ### Links
 
