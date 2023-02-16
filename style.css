@@ -40,7 +40,7 @@ img{
     font-size: 15px;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
-    margin-bottom: 40px;
+    margin: 0 10px 40px 10px;
 }
 .app-footer{
     position: absolute;
